@@ -14,7 +14,7 @@ const Login = memo(() => {
       const res = await axios.post(
         // "http://localhost:8080/api/users/login",
         // `https://kwmkqg1t-8081.euw.devtunnels.ms/api/users/login`,
-        `https://idish25.richman.uz/api/users/login`,
+        `https://idish16102025.richman.uz/api/users/login`,
 
         value
       );
