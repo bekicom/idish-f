@@ -1,0 +1,15 @@
+.transportion {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+
+  div {
+    /* display: flex; */
+    /* flex-direction: column; */
+
+    h3 {
+      margin-top: 15px;
+    }
+  }
+}
